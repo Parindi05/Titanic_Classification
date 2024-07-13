@@ -100,7 +100,7 @@ The Random Forest model performed slightly better than the Logistic Regression m
 
 1. Clone the repository.
 2. Ensure you have the necessary dependencies installed.
-3. Run the `titanic_classification.ipynb` notebook to reproduce the results.
+3. Run the `Titanic Classification.ipynb` notebook to reproduce the results.
 
 ## Dependencies
 
